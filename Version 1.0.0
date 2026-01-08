@@ -1,0 +1,13 @@
+print("Welcome!")
+
+mass = float(input("First, enter the object's mass. "))
+velocity = float(input("Next, enter the object's velocity. "))
+height = float(input("Finally, enter the object's height. "))
+
+ke = 0.5 * mass * (velocity ** 2) #kinetic energy
+gpe = mass * 9.8 * height #gravitational potential energy
+me = ke + gpe #mechanical
+
+print("The object's kinetic energy is", ke)
+print("The object's gravitational potential energy is", gpe)
+print("The object's mechanical energy is", me)
