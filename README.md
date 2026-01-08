@@ -9,7 +9,7 @@ README
 
 CONTACTS
 
-  If you have any issues, ideas, or queries, you can contact reach me via my email at mjantepasado203@crc.pshs.edu.ph
-  i will be sure to answer them
+  If you have any issues, ideas, or queries, you can contact reach me via my email at mjantepasado203@crc.pshs.edu.ph.
+  I will be sure to answer them
 
   All contributors to this are me and only me so far.
